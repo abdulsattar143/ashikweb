@@ -1,2 +1,2 @@
 # ashikweb
-my web site
+my website
